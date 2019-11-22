@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/2.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/3.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/4.jpg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Freeburn, Idaho"
+  }
+
+]
